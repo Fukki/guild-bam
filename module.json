@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Guild BAM",
+    "author": "Fukki",
+    "description": "Notice you when rally BAM appear.",
+    "options": {
+        "niceName": "Guild BAM"
+    },
+    "servers": ["https://raw.githubusercontent.com/Fukki/guild-bam/master/"]
+}

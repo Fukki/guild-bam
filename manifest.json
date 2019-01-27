@@ -1,0 +1,17 @@
+{
+	"files": {
+		"index.js": "369f84ce721586b7649fb7f2faa945eefde1bc5e9437589d7da51f228383e98f",
+		"node_modules/node-wav-player/LICENSE": "e72a84d30015baf6c7131884e311be1e3285a8923848f82f22ed76feec1f3a56",
+		"node_modules/node-wav-player/README.md": "3c6788d10d18532264576ad4037b2fd4746bde8d04304a02dd508332e655e779",
+		"node_modules/node-wav-player/lib/wav-player.js": "1df410da01b2ecfd2da4d9e3f8f2a3fa8d06d551a3001e6dcdd6936486a14002",
+		"node_modules/node-wav-player/package.json": "f847a25dc2e2b80fa95a142018e7cf74857f04a960d8ebd600b51b7f9c3bc186",
+		"wav/Anansha.wav": "a3808d80557ef940f72c6161b1b40cf551706f4367082ba2fda8cc97b12ebaad",
+		"wav/Frygaras.wav": "a1e9f5b1545393e9024d66c794d849b1d29624e5d452e89c0b85a0d3d03aa6fb",
+		"wav/Sabranak.wav": "8d512dad3aea5a654a009fc01b7322e1e680370aeac73a04ea235d15d9b51d50"
+	},
+	"defs": {
+		"S_CHAT": 2,
+		"S_NOTIFY_GUILD_QUEST_URGENT": 1,
+		"S_PLAY_SOUND": 1
+	}
+}
