@@ -63,7 +63,7 @@ module.exports = function  guildBAM(mod) {
 				mod.send('S_CHAT', 2, {
 					authorName: '',
 					channel: 7,
-					message: '<font color="#56B4E9">Guild BAM</font> <font color="#3399FF">' + s + '</font> <font color="#56B4E9">was coming -></font> <font color="#3399FF">' + timeFormat(new Date(new Date().getTime() + 300000)) + '</font>'
+					message: '<font color="#56B4E9">[' + timeFormat(new Date())] + 'Guild BAM</font> <font color="#3399FF">' + s + '</font> <font color="#56B4E9">was coming.'
 				});
 			}
 		}
