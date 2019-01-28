@@ -1,6 +1,6 @@
 {
 	"files": {
-		"index.js": "2292c20e37478be6a4a53141deb562ef82647c3db4741eda6b89ecc157ef2da0",
+		"index.js": "20f5825472a21d2d752bcb3c697a16e2f299d336efdee49f592f050d613035dd",
 		"node_modules/node-wav-player/LICENSE": "e72a84d30015baf6c7131884e311be1e3285a8923848f82f22ed76feec1f3a56",
 		"node_modules/node-wav-player/README.md": "3c6788d10d18532264576ad4037b2fd4746bde8d04304a02dd508332e655e779",
 		"node_modules/node-wav-player/lib/wav-player.js": "1df410da01b2ecfd2da4d9e3f8f2a3fa8d06d551a3001e6dcdd6936486a14002",
